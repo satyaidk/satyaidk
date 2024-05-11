@@ -178,7 +178,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img height="280" src="https://media.giphy.com/media/MUlmRFnTQxwJ2/giphy.gif"  />
-    <img width="700" src="https://github.com/satyaidk/satyaidk/assets/98378624/2680ed7c-c80c-4a50-8077-d9d8eb79ec87" />
 </div>
 <!--div align="center" >
     <img src="" />
