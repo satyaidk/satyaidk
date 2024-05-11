@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/satyaidk/satyaidk/assets/98378624/6b203040-19bf-46ee-ab4c-5b31e6418620)
+![header](https://github.com/satyaidk/satyaidk/assets/98378624/91406b8e-290f-4e0b-b19b-4f03f4d0c169)
 
 <h1 align="center">Hi, I am Satya Narayana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <!--h1 align="center">Hi , I'm Satya Narayana</h1-->
