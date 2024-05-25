@@ -15,7 +15,7 @@
    <img src="https://profile-counter.glitch.me/satyaidk/count.svg" /> 
  </p-->
 
-<!div align="center">
+<div align="center">
   <img height="400" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 <!--div align="center">
