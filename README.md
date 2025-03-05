@@ -1,7 +1,7 @@
 
 ![header](https://github.com/satyaidk/satyaidk/assets/98378624/91406b8e-290f-4e0b-b19b-4f03f4d0c169)
 
-<h1 align="center">Hi, I am Satya Narayana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I am SatyaNarayana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 <!--h1 align="center">Hi , I'm Satya Narayana</h1-->
 <!--h3 align="center">I'm a passionate Front-end developer 
 12
@@ -26,9 +26,9 @@
 
 <p align="center"> <a href="https://twitter.com/satya_idk" target="blank"><img src="https://img.shields.io/twitter/follow/satya_idk?logo=twitter&style=for-the-badge" alt="satya_idk" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, `AWS & DevOps`!** ⚛️
+- 🌱 I’m currently learning **Docker, `LLMs & AI - Agents`!** ⚛️
 
-- 💬 Ask me about **`Front-end!`** ✅
+- 💬 Ask me about **`Front-end!, AWS & DevOps, AI & ML and Docker`** ✅
 
 - 📫 How to reach me: **nikadisatyanarayana@gmail.com**
 
