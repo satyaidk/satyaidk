@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Docker, `LLMs & AI - Agents`!** ⚛️
 
-- 💬 Ask me about **`Front-end!`** ✅
+- 💬 Ask me about **`Front-end!, AWS & DevOps, AI & ML and Docker`** ✅
 
 - 📫 How to reach me: **nikadisatyanarayana@gmail.com**
 
