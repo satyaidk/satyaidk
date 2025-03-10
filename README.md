@@ -26,7 +26,7 @@
 
 <p align="center"> <a href="https://twitter.com/satya_idk" target="blank"><img src="https://img.shields.io/twitter/follow/satya_idk?logo=twitter&style=for-the-badge" alt="satya_idk" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, `LLMs & AI - Agents`!** ⚛️
+- 🌱 I’m currently learning ** `LLMs & AI - Agents`!** ⚛️
 
 - 💬 Ask me about **`Front-end!, AWS & DevOps, AI & ML and Docker`** ✅
 
