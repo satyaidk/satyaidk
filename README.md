@@ -162,6 +162,6 @@
 </div>
 
 
-<!--a href=#><img src="contributions.svg"></a-->
+<!a href=#><img src="contributions.svg"></a>
 
 [![An image of @satyaidk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyaidk)](https://holopin.io/@satyaidk)
