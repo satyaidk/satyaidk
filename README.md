@@ -66,7 +66,7 @@
 </div>
 
 <br>
-<h3 align="left">Languages and Tools: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h3>
+<h3 align="left">Languages and Tools : <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h3>
 
 
 <!--div align="center">
