@@ -44,7 +44,7 @@
   <a href="https://twitter.com/@satya_idk">  
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://instagram.com/satya_idk?igshid=ntc4mtiwnjq2yq==">  
+  <a href="https://instagram.com/0xsatya_idk?igshid=ntc4mtiwnjq2yq==">  
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>  
   <a href="">  
