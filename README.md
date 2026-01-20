@@ -7,7 +7,7 @@
 12
 </h3-->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;AI+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...;ElectronicNerd&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=Ff00e6&width=380&height=45&lines=Always+Learning+New+Things;AI+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things;WEB3+Enthusiast;Nice+To+Meet+You+...;Electronic+Nerd&center=true">
 </p>
 
 <!--p align="center">  
