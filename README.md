@@ -13,7 +13,7 @@
 
 </div>
 
-<div align="center">
+
 
 ```
 ┌─[satya@dev]─[~/profile]
@@ -26,7 +26,7 @@
 [✔] Status .................................... SHIPPING 
 ```
 
-</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=620&height=55&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Architecting+LLM-powered+systems+%F0%9F%A7%A0;Crafting+pixel-perfect+interfaces+%E2%9A%A1;Where+hardware+meets+software+%F0%9F%94%8C;Forever+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
