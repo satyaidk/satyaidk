@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF2E97&height=200&section=header&text=Satya%20Narayana&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Electronics%20Tinkerer&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7B2FF7,100:FF2E97&height=200&section=header&text=Satyanarayana&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Electronics%20Tinkerer&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 </div>
 
