@@ -16,14 +16,14 @@
 <div align="center">
 
 ```
-┌─[satya@dev]─[~/profile]
-└──╼ $ ./boot.sh --verbose
+   ┌─[satya@dev]─[~/profile]
+   └──╼ $ ./boot.sh --verbose
 
-  [✔] Mounting neural cores .................... ONLINE
-  [✔] Loading model: LLM-Agent-v4 .............. READY
-  [✔] Compiling front-end pipeline ............. PASSED
-  [✔] Calibrating hardware interfaces .......... LINKED
-  [✔] Status .................................... SHIPPING 🚀
+     [✔] Mounting neural cores .................... ONLINE
+     [✔] Loading model: LLM-Agent-v4 .............. READY
+     [✔] Compiling front-end pipeline ............. PASSED
+     [✔] Calibrating hardware interfaces .......... LINKED
+     [✔] Status .................................... SHIPPING 🚀
 ```
 
 </div>
