@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    SATYANARAYANA · README.md · v2.0                       ║ -->
+<!-- ║                    SATYANARAYANA · README.md · v2.0                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 <div align="center">
 
@@ -81,12 +81,12 @@ print(me.philosophy())   # → "Ship fast, learn faster, and never fear the deep
 
 |  Focus |  What It Means |  Where It's Heading |
 |:---|:---|:---|
-| ** AI Agents** | Autonomous systems that reason, plan & act | Multi-agent orchestration & tool use |
-| ** LLMs & RAG** | Retrieval-grounded, context-aware models | Production RAG, eval pipelines, fine-tuning |
-| ** Front-End** | Pixel-perfect, blazing-fast interfaces | AI-native UX & real-time apps |
-| ** Cloud / DevOps** | Containerized, reproducible deployments | CI/CD, IaC, scalable inference |
-| ** Electronics** | Hardware that talks to software | Edge AI, IoT, embedded ML |
-| ** Open Source** | Build in public, grow together | Maintaining & contributing upstream |
+|  AI Agents | Autonomous systems that reason, plan & act | Multi-agent orchestration & tool use |
+|  LLMs & RAG | Retrieval-grounded, context-aware models | Production RAG, eval pipelines, fine-tuning |
+|  Front-End | Pixel-perfect, blazing-fast interfaces | AI-native UX & real-time apps |
+|  Cloud / DevOps | Containerized, reproducible deployments | CI/CD, IaC, scalable inference |
+|  Electronics | Hardware that talks to software | Edge AI, IoT, embedded ML |
+|  Open Source | Build in public, grow together | Maintaining & contributing upstream |
 
 </div>
 
