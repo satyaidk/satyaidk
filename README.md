@@ -207,13 +207,6 @@ graph LR
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   Thanks for visiting! Drop a ⭐ if something here sparked     ║
-║   an idea — let's build the future, one commit at a time.     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FF7,100:00F5FF&height=120&section=footer&animation=twinkling"/>
 
 </div>
