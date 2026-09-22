@@ -75,33 +75,33 @@ print(me.philosophy())   # → "Ship fast, learn faster, and never fear the deep
 
 ---
 
-## 🎯 &nbsp;What I'm Building Toward
+##  &nbsp;What I'm Building Toward
 
 <div align="center">
 
-| 🧭 Focus | 🔧 What It Means | 🚀 Where It's Heading |
+|  Focus |  What It Means |  Where It's Heading |
 |:---|:---|:---|
-| **🤖 AI Agents** | Autonomous systems that reason, plan & act | Multi-agent orchestration & tool use |
-| **🧠 LLMs & RAG** | Retrieval-grounded, context-aware models | Production RAG, eval pipelines, fine-tuning |
-| **🌐 Front-End** | Pixel-perfect, blazing-fast interfaces | AI-native UX & real-time apps |
-| **☁️ Cloud / DevOps** | Containerized, reproducible deployments | CI/CD, IaC, scalable inference |
-| **🔌 Electronics** | Hardware that talks to software | Edge AI, IoT, embedded ML |
-| **🤝 Open Source** | Build in public, grow together | Maintaining & contributing upstream |
+| ** AI Agents** | Autonomous systems that reason, plan & act | Multi-agent orchestration & tool use |
+| ** LLMs & RAG** | Retrieval-grounded, context-aware models | Production RAG, eval pipelines, fine-tuning |
+| ** Front-End** | Pixel-perfect, blazing-fast interfaces | AI-native UX & real-time apps |
+| ** Cloud / DevOps** | Containerized, reproducible deployments | CI/CD, IaC, scalable inference |
+| ** Electronics** | Hardware that talks to software | Edge AI, IoT, embedded ML |
+| ** Open Source** | Build in public, grow together | Maintaining & contributing upstream |
 
 </div>
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal
+##  &nbsp;Tech Arsenal
 
 <div align="center">
 
-#### ⚡ Languages
+####  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c,kotlin,html,css&theme=dark" />
 </p>
 
-#### 🤖 AI / ML & Data
+####  AI / ML & Data
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -112,22 +112,22 @@ print(me.philosophy())   # → "Ship fast, learn faster, and never fear the deep
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-#### 🧩 Frameworks & Libraries
+####  Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,bootstrap,tailwind&theme=dark" />
 </p>
 
-#### ☁️ Cloud & DevOps
+####  Cloud & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,aws,docker,kubernetes,git,github&theme=dark" />
 </p>
 
-#### 🗄️ Databases
+####  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark" />
 </p>
 
-#### 🎨 Design & Tools
+####  Design & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma,vscode,wordpress,postman,linux&theme=dark" />
 </p>
@@ -136,54 +136,7 @@ print(me.philosophy())   # → "Ship fast, learn faster, and never fear the deep
 
 ---
 
-## 📊 &nbsp;Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyaidk&theme=react-dark&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=satyaidk&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&icon_color=7b2ff7&border_color=30363d&hide_border=false&rank_icon=github" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaidk&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=ffffff&border_color=30363d&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=satyaidk&theme=tokyonight&background=0D1117&border=30363D&stroke=00F5FF&ring=7B2FF7&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=7B2FF7&dates=888888" height="180" alt="Streak Stats"/>
-
-</div>
-
-
----
-
-## 🗺️ &nbsp;The Roadmap Ahead
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Today: Full-Stack + AI] --> B[Agentic Systems]
-    A --> C[Edge AI / Embedded ML]
-    B --> D[Multi-Agent Orchestration]
-    C --> E[On-Device Inference]
-    D --> F((AI-Native Products))
-    E --> F
-    style A fill:#00f5ff,stroke:#0d1117,color:#0d1117
-    style F fill:#FF2E97,stroke:#0d1117,color:#fff
-    style B fill:#7b2ff7,stroke:#0d1117,color:#fff
-    style C fill:#7b2ff7,stroke:#0d1117,color:#fff
-```
-
-</div>
-
----
-
-## 🌐 &nbsp;Let's Connect
+##  &nbsp;Let's Connect
 
 <div align="center">
 
