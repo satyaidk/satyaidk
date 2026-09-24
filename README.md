@@ -51,7 +51,7 @@ class SatyaNarayana:
     """An engineer who treats every system — silicon or software — as solvable."""
 
     def __init__(self):
-        self.name      = "Nikadi Satya Narayana"
+        self.name      = "Nikadi Satyanarayana"
         self.alias     = "satyaidk"
         self.location  = "India 🇮🇳"
         self.role      = "AI Engineer · Full-Stack Dev · Electronics Nerd"
