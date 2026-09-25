@@ -32,13 +32,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=620&height=55&lines=Building+autonomous+AI+agents+%F0%9F%A4%96;Architecting+LLM-powered+systems+%F0%9F%A7%A0;Crafting+pixel-perfect+interfaces+%E2%9A%A1;Where+hardware+meets+software+%F0%9F%94%8C;Forever+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=satyaidk&label=Profile%20Views&color=00f5ff&style=for-the-badge)](https://github.com/satyaidk)
-[![Followers](https://img.shields.io/github/followers/satyaidk?label=Followers&style=for-the-badge&color=7b2ff7)](https://github.com/satyaidk)
-[![Years Coding](https://img.shields.io/badge/Years_Coding-3%2B-FF2E97?style=for-the-badge)](https://github.com/satyaidk)
-
-</div>
 
 ---
 
